@@ -1,0 +1,3 @@
+rootProject.name='Youtube_Recycle_View'
+include ':app'
+include ':recycleview'
